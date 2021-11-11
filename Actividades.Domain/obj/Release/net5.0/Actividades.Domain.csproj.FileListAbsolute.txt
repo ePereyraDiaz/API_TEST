@@ -1,0 +1,12 @@
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Domain\bin\Release\net5.0\Actividades.Domain.deps.json
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Domain\bin\Release\net5.0\Actividades.Domain.dll
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Domain\bin\Release\net5.0\ref\Actividades.Domain.dll
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Domain\bin\Release\net5.0\Actividades.Domain.pdb
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Domain\obj\Release\net5.0\Actividades.Domain.csproj.AssemblyReference.cache
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Domain\obj\Release\net5.0\Actividades.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Domain\obj\Release\net5.0\Actividades.Domain.AssemblyInfoInputs.cache
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Domain\obj\Release\net5.0\Actividades.Domain.AssemblyInfo.cs
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Domain\obj\Release\net5.0\Actividades.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Domain\obj\Release\net5.0\Actividades.Domain.dll
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Domain\obj\Release\net5.0\ref\Actividades.Domain.dll
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Domain\obj\Release\net5.0\Actividades.Domain.pdb

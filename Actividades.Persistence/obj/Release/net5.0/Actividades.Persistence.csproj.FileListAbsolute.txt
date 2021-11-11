@@ -1,0 +1,15 @@
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\bin\Release\net5.0\Actividades.Persistence.deps.json
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\bin\Release\net5.0\Actividades.Persistence.dll
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\bin\Release\net5.0\ref\Actividades.Persistence.dll
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\bin\Release\net5.0\Actividades.Persistence.pdb
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\bin\Release\net5.0\Actividades.Domain.dll
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\bin\Release\net5.0\Actividades.Domain.pdb
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\obj\Release\net5.0\Actividades.Persistence.csproj.AssemblyReference.cache
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\obj\Release\net5.0\Actividades.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\obj\Release\net5.0\Actividades.Persistence.AssemblyInfoInputs.cache
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\obj\Release\net5.0\Actividades.Persistence.AssemblyInfo.cs
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\obj\Release\net5.0\Actividades.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\obj\Release\net5.0\Actividades.Persistence.csproj.CopyComplete
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\obj\Release\net5.0\Actividades.Persistence.dll
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\obj\Release\net5.0\ref\Actividades.Persistence.dll
+C:\Users\Edgar Pereyra\Desktop\REPO_\Actividades.Persistence\obj\Release\net5.0\Actividades.Persistence.pdb

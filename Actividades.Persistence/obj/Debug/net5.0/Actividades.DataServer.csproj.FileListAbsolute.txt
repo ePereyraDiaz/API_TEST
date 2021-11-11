@@ -1,0 +1,5 @@
+C:\Users\Edgar Pereyra\source\repos\TEST\Actividades.DataServer\obj\Debug\net5.0\Actividades.DataServer.csproj.AssemblyReference.cache
+C:\Users\Edgar Pereyra\source\repos\TEST\Actividades.DataServer\obj\Debug\net5.0\Actividades.DataServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar Pereyra\source\repos\TEST\Actividades.DataServer\obj\Debug\net5.0\Actividades.DataServer.AssemblyInfoInputs.cache
+C:\Users\Edgar Pereyra\source\repos\TEST\Actividades.DataServer\obj\Debug\net5.0\Actividades.DataServer.AssemblyInfo.cs
+C:\Users\Edgar Pereyra\source\repos\TEST\Actividades.DataServer\obj\Debug\net5.0\Actividades.DataServer.csproj.CoreCompileInputs.cache
